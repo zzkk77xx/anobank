@@ -1,0 +1,9 @@
+[submodule "my-app"]
+	path = my-app
+	url = https://github.com/zzkk77xx/my-app
+[submodule "my-back"]
+	path = my-back
+	url = https://github.com/zzkk77xx/my-back
+[submodule "my-dashboard"]
+	path = my-dashboard
+	url = https://github.com/zzkk77xx/my-dashboard
