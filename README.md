@@ -1,5 +1,8 @@
 # AnoBank
 
+App: https://anobank.netlify.app/
+Bank Dashboard: https://illiliilillilililillliliiilil-anobank.netlify.app/
+
 ### Privacy-First On-Chain Banking Infrastructure
 
 > **The first on-chain bank.** White-label infrastructure combining on-chain security with Unlink privacy, wrapped in a neobank UX — zero crypto jargon.
