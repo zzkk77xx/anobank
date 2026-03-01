@@ -1,1 +1,0 @@
-# goldmonad-sachs
